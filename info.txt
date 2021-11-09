@@ -1,0 +1,421 @@
+001, Air Elemental, uncommon, 3-U-U, Creature — Elemental, Flying
+002, Ancestral Recall, rare, U, Instant, Target player draws three cards.
+003, Animate Artifact, uncommon, 3-U, Enchantment — Aura, Enchant artifact
+As long as enchanted artifact isn't a creature, it's an artifact creature with power and toughness each equal to its mana value.
+004, Animate Dead, uncommon, 1-B, Enchantment — Aura, Enchant creature card in a graveyard
+When Animate Dead enters the battlefield, if it's on the battlefield, it loses "enchant creature card in a graveyard" and gains "enchant creature put onto the battlefield with Animate Dead." Return enchanted creature card to the battlefield under your control and attach Animate Dead to it. When Animate Dead leaves the battlefield, that creature's controller sacrifices it.
+Enchanted creature gets -1/-0.
+005, Animate Wall, rare, W, Enchantment — Aura, Enchant Wall
+Enchanted Wall can attack as though it didn't have defender.
+006, Ankh of Mishra, rare, 2, Artifact, Whenever a land enters the battlefield, Ankh of Mishra deals 2 damage to that land's controller.
+007, Armageddon, rare, 3-W, Sorcery, Destroy all lands.
+008, Aspect of Wolf, rare, 1-G, Enchantment — Aura, Enchant creature
+Enchanted creature gets +X/+Y, where X is half the number of Forests you control, rounded down, and Y is half the number of Forests you control, rounded up.
+009, Bad Moon, rare, 1-B, Enchantment, Black creatures get +1/+1.
+010, Badlands, rare, , Land — Swamp Mountain, 
+011, Balance, rare, 1-W, Sorcery, Each player chooses a number of lands they control equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way.
+012, Basalt Monolith, uncommon, 3, Artifact, Basalt Monolith doesn't untap during your untap step.
+: Add .
+: Untap Basalt Monolith.
+013, Bayou, rare, , Land — Swamp Forest, 
+014, Benalish Hero, common, W, Creature — Human Soldier, Banding
+015, Berserk, uncommon, G, Instant, Cast this spell only before the combat damage step.
+Target creature gains trample and gets +X/+0 until end of turn, where X is its power. At the beginning of the next end step, destroy that creature if it attacked this turn.
+016, Birds of Paradise, rare, G, Creature — Bird, Flying
+: Add one mana of any color.
+017, Black Knight, uncommon, B-B, Creature — Human Knight, First strike
+Protection from white
+018, Black Lotus, rare, 0, Artifact, , Sacrifice Black Lotus: Add three mana of any one color.
+019, Black Vise, uncommon, 1, Artifact, As Black Vise enters the battlefield, choose an opponent.
+At the beginning of the chosen player's upkeep, Black Vise deals X damage to that player, where X is the number of cards in their hand minus 4.
+020, Black Ward, uncommon, W, Enchantment — Aura, Enchant creature
+Enchanted creature has protection from black. This effect doesn't remove Black Ward.
+021, Blaze of Glory, rare, W, Instant, Cast this spell only during combat before blockers are declared.
+Target creature defending player controls can block any number of creatures this turn. It blocks each attacking creature this turn if able.
+022, Blessing, rare, W-W, Enchantment — Aura, Enchant creature
+: Enchanted creature gets +1/+1 until end of turn.
+023, Blue Elemental Blast, common, U, Instant, Choose one —
+• Counter target red spell.
+• Destroy target red permanent.
+024, Blue Ward, uncommon, W, Enchantment — Aura, Enchant creature
+Enchanted creature has protection from blue. This effect doesn't remove Blue Ward.
+025, Bog Wraith, uncommon, 3-B, Creature — Wraith, Swampwalk
+026, Braingeyser, rare, X-U-U, Sorcery, Target player draws X cards.
+027, Burrowing, uncommon, R, Enchantment — Aura, Enchant creature
+Enchanted creature has mountainwalk.
+028, Camouflage, uncommon, G, Instant, Cast this spell only during your declare attackers step.
+This turn, instead of declaring blockers, each defending player chooses any number of creatures they control and divides them into a number of piles equal to the number of attacking creatures for whom that player is the defending player. Creatures those players control that can block additional creatures may likewise be put into additional piles. Assign each pile to a different one of those attacking creatures at random. Each creature in a pile that can block the creature that pile is assigned to does so. (Piles can be empty.)
+029, Castle, uncommon, 3-W, Enchantment, Untapped creatures you control get +0/+2.
+030, Celestial Prism, uncommon, 3, Artifact, , : Add one mana of any color.
+031, Channel, uncommon, G-G, Sorcery, Until end of turn, any time you could activate a mana ability, you may pay 1 life. If you do, add .
+032, Chaos Orb, rare, 2, Artifact, , : If Chaos Orb is on the battlefield, flip Chaos Orb onto the battlefield from a height of at least one foot. If Chaos Orb turns over completely at least once during the flip, destroy all nontoken permanents it touches. Then destroy Chaos Orb.
+033, Chaoslace, rare, R, Instant, Target spell or permanent becomes red. (Its mana symbols remain unchanged.)
+035, Circle of Protection: Blue, common, 1-W, Enchantment, : The next time a blue source of your choice would deal damage to you this turn, prevent that damage.
+036, Circle of Protection: Green, common, 1-W, Enchantment, : The next time a green source of your choice would deal damage to you this turn, prevent that damage.
+037, Circle of Protection: Red, common, 1-W, Enchantment, : The next time a red source of your choice would deal damage to you this turn, prevent that damage.
+038, Circle of Protection: White, common, 1-W, Enchantment, : The next time a white source of your choice would deal damage to you this turn, prevent that damage.
+039, Clockwork Beast, rare, 6, Artifact Creature — Beast, Clockwork Beast enters the battlefield with seven +1/+0 counters on it.
+At end of combat, if Clockwork Beast attacked or blocked this combat, remove a +1/+0 counter from it.
+, : Put up to X +1/+0 counters on Clockwork Beast. This ability can't cause the total number of +1/+0 counters on Clockwork Beast to be greater than seven. Activate only during your upkeep.
+040, Clone, uncommon, 3-U, Creature — Shapeshifter, You may have Clone enter the battlefield as a copy of any creature on the battlefield.
+041, Cockatrice, rare, 3-G-G, Creature — Cockatrice, Flying
+Whenever Cockatrice blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat.
+042, Consecrate Land, uncommon, W, Enchantment — Aura, Enchant land
+Enchanted land has indestructible and can't be enchanted by other Auras.
+043, Conservator, uncommon, 4, Artifact, , : Prevent the next 2 damage that would be dealt to you this turn.
+044, Contract from Below, rare, B, Sorcery, Remove Contract from Below from your deck before playing if you're not playing for ante.
+Discard your hand, ante the top card of your library, then draw seven cards.
+045, Control Magic, uncommon, 2-U-U, Enchantment — Aura, Enchant creature
+You control enchanted creature.
+046, Conversion, uncommon, 2-W-W, Enchantment, At the beginning of your upkeep, sacrifice Conversion unless you pay .
+All Mountains are Plains.
+047, Copper Tablet, uncommon, 2, Artifact, At the beginning of each player's upkeep, Copper Tablet deals 1 damage to that player.
+048, Copy Artifact, rare, 1-U, Enchantment, You may have Copy Artifact enter the battlefield as a copy of any artifact on the battlefield, except it's an enchantment in addition to its other types.
+049, Counterspell, uncommon, U-U, Instant, Counter target spell.
+050, Craw Wurm, common, 4-G-G, Creature — Wurm, 
+051, Creature Bond, common, 1-U, Enchantment — Aura, Enchant creature
+When enchanted creature dies, Creature Bond deals damage equal to that creature's toughness to the creature's controller.
+052, Crusade, rare, W-W, Enchantment, White creatures get +1/+1.
+053, Crystal Rod, uncommon, 1, Artifact, Whenever a player casts a blue spell, you may pay . If you do, you gain 1 life.
+054, Cursed Land, uncommon, 2-B-B, Enchantment — Aura, Enchant land
+At the beginning of the upkeep of enchanted land's controller, Cursed Land deals 1 damage to that player.
+055, Cyclopean Tomb, rare, 4, Artifact, , : Put a mire counter on target non-Swamp land. That land is a Swamp for as long as it has a mire counter on it. Activate only during your upkeep.
+When Cyclopean Tomb is put into a graveyard from the battlefield, at the beginning of each of your upkeeps for the rest of the game, remove all mire counters from a land that a mire counter was put onto with Cyclopean Tomb but that a mire counter has not been removed from with Cyclopean Tomb.
+056, Dark Ritual, common, B, Instant, Add .
+057, Darkpact, rare, B-B-B, Sorcery, Remove Darkpact from your deck before playing if you're not playing for ante.
+You own target card in the ante. Exchange that card with the top card of your library.
+058, Death Ward, common, W, Instant, Regenerate target creature.
+059, Deathgrip, uncommon, B-B, Enchantment, : Counter target green spell.
+060, Deathlace, rare, B, Instant, Target spell or permanent becomes black. (Mana symbols on that permanent remain unchanged.)
+061, Demonic Attorney, rare, 1-B-B, Sorcery, Remove Demonic Attorney from your deck before playing if you're not playing for ante.
+Each player antes the top card of their library.
+062, Demonic Hordes, rare, 3-B-B-B, Creature — Demon, : Destroy target land.
+At the beginning of your upkeep, unless you pay , tap Demonic Hordes and sacrifice a land of an opponent's choice.
+063, Demonic Tutor, uncommon, 1-B, Sorcery, Search your library for a card, put that card into your hand, then shuffle.
+064, Dingus Egg, rare, 4, Artifact, Whenever a land is put into a graveyard from the battlefield, Dingus Egg deals 2 damage to that land's controller.
+065, Disenchant, common, 1-W, Instant, Destroy target artifact or enchantment.
+066, Disintegrate, common, X-R, Sorcery, Disintegrate deals X damage to any target. If it's a creature, it can't be regenerated this turn, and if it would die this turn, exile it instead.
+067, Disrupting Scepter, rare, 3, Artifact, , : Target player discards a card. Activate only during your turn.
+068, Dragon Whelp, uncommon, 2-R-R, Creature — Dragon, Flying
+: Dragon Whelp gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Dragon Whelp at the beginning of the next end step.
+069, Drain Life, common, X-1-B, Sorcery, Spend only black mana on X.
+Drain Life deals X damage to any target. You gain life equal to the damage dealt, but not more life than the player's life total before the damage was dealt, the planeswalker's loyalty before the damage was dealt, or the creature's toughness.
+070, Drain Power, rare, U-U, Sorcery, Target player activates a mana ability of each land they control. Then that player loses all unspent mana and you add the mana lost this way.
+071, Drudge Skeletons, common, 1-B, Creature — Skeleton, : Regenerate Drudge Skeletons.
+072, Dwarven Demolition Team, uncommon, 2-R, Creature — Dwarf, : Destroy target Wall.
+073, Dwarven Warriors, common, 2-R, Creature — Dwarf Warrior, : Target creature with power 2 or less can't be blocked this turn.
+074, Earth Elemental, uncommon, 3-R-R, Creature — Elemental, 
+075, Earthbind, common, R, Enchantment — Aura, Enchant creature
+When Earthbind enters the battlefield, if enchanted creature has flying, Earthbind deals 2 damage to that creature and Earthbind gains "Enchanted creature loses flying."
+076, Earthquake, rare, X-R, Sorcery, Earthquake deals X damage to each creature without flying and each player.
+077, Elvish Archers, rare, 1-G, Creature — Elf Archer, First strike
+078, Evil Presence, uncommon, B, Enchantment — Aura, Enchant land
+Enchanted land is a Swamp.
+079, False Orders, common, R, Instant, Cast this spell only during the declare blockers step.
+Remove target creature defending player controls from combat. Creatures it was blocking that had become blocked by only that creature this combat become unblocked. You may have it block an attacking creature of your choice.
+080, Farmstead, rare, W-W-W, Enchantment — Aura, Enchant land
+Enchanted land has "At the beginning of your upkeep, you may pay . If you do, you gain 1 life."
+081, Fastbond, rare, G, Enchantment, You may play any number of lands on each of your turns.
+Whenever you play a land, if it wasn't the first land you played this turn, Fastbond deals 1 damage to you.
+082, Fear, common, B-B, Enchantment — Aura, Enchant creature
+Enchanted creature has fear.
+083, Feedback, uncommon, 2-U, Enchantment — Aura, Enchant enchantment
+At the beginning of the upkeep of enchanted enchantment's controller, Feedback deals 1 damage to that player.
+084, Fire Elemental, uncommon, 3-R-R, Creature — Elemental, 
+085, Fireball, common, X-R, Sorcery, This spell costs more to cast for each target beyond the first.
+Fireball deals X damage divided evenly, rounded down, among any number of targets.
+086, Firebreathing, common, R, Enchantment — Aura, Enchant creature
+: Enchanted creature gets +1/+0 until end of turn.
+087, Flashfires, uncommon, 3-R, Sorcery, Destroy all Plains.
+088, Flight, common, U, Enchantment — Aura, Enchant creature
+Enchanted creature has flying.
+089, Fog, common, G, Instant, Prevent all combat damage that would be dealt this turn.
+090, Force of Nature, rare, 2-G-G-G-G, Creature — Elemental, Trample
+At the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay .
+091, Forcefield, rare, 3, Artifact, : The next time an unblocked creature of your choice would deal combat damage to you this turn, prevent all but 1 of that damage.
+092, Forest, unknown, , Basic Land — Forest, 
+093, Forest, unknown, , Basic Land — Forest, 
+095, Fork, rare, R-R, Instant, Copy target instant or sorcery spell, except that the copy is red. You may choose new targets for the copy.
+096, Frozen Shade, common, 2-B, Creature — Shade, : Frozen Shade gets +1/+1 until end of turn.
+097, Fungusaur, rare, 3-G, Creature — Fungus Dinosaur, Whenever Fungusaur is dealt damage, put a +1/+1 counter on it.
+098, Gaea's Liege, rare, 3-G-G-G, Creature — Avatar, As long as Gaea's Liege isn't attacking, its power and toughness are each equal to the number of Forests you control. As long as Gaea's Liege is attacking, its power and toughness are each equal to the number of Forests defending player controls.
+: Target land becomes a Forest until Gaea's Liege leaves the battlefield.
+099, Gauntlet of Might, rare, 4, Artifact, Red creatures get +1/+1.
+Whenever a Mountain is tapped for mana, its controller adds an additional .
+100, Giant Growth, common, G, Instant, Target creature gets +3/+3 until end of turn.
+101, Giant Spider, common, 3-G, Creature — Spider, Reach
+102, Glasses of Urza, uncommon, 1, Artifact, : Look at target player's hand.
+103, Gloom, uncommon, 2-B, Enchantment, White spells cost more to cast.
+Activated abilities of white enchantments cost more to activate.
+104, Goblin Balloon Brigade, uncommon, R, Creature — Goblin Warrior, : Goblin Balloon Brigade gains flying until end of turn.
+105, Goblin King, rare, 1-R-R, Creature — Goblin, Other Goblins get +1/+1 and have mountainwalk.
+106, Granite Gargoyle, rare, 2-R, Creature — Gargoyle, Flying
+: Granite Gargoyle gets +0/+1 until end of turn.
+107, Gray Ogre, common, 2-R, Creature — Ogre, 
+108, Green Ward, uncommon, W, Enchantment — Aura, Enchant creature
+Enchanted creature has protection from green. This effect doesn't remove Green Ward.
+109, Grizzly Bears, common, 1-G, Creature — Bear, 
+110, Guardian Angel, common, X-W, Instant, Prevent the next X damage that would be dealt to any target this turn. Until end of turn, you may pay any time you could cast an instant. If you do, prevent the next 1 damage that would be dealt to that permanent or player this turn.
+111, Healing Salve, common, W, Instant, Choose one —
+• Target player gains 3 life.
+• Prevent the next 3 damage that would be dealt to any target this turn.
+112, Helm of Chatzuk, rare, 1, Artifact, , : Target creature gains banding until end of turn.
+113, Hill Giant, common, 3-R, Creature — Giant, 
+114, The Hive, rare, 5, Artifact, , : Create a 1/1 colorless Insect artifact creature token with flying named Wasp.
+115, Holy Armor, common, W, Enchantment — Aura, Enchant creature
+Enchanted creature gets +0/+2.
+: Enchanted creature gets +0/+1 until end of turn.
+116, Holy Strength, common, W, Enchantment — Aura, Enchant creature
+Enchanted creature gets +1/+2.
+117, Howl from Beyond, common, X-B, Instant, Target creature gets +X/+0 until end of turn.
+118, Howling Mine, rare, 2, Artifact, At the beginning of each player's draw step, if Howling Mine is untapped, that player draws an additional card.
+119, Hurloon Minotaur, common, 1-R-R, Creature — Minotaur, 
+120, Hurricane, uncommon, X-G, Sorcery, Hurricane deals X damage to each creature with flying and each player.
+121, Hypnotic Specter, uncommon, 1-B-B, Creature — Specter, Flying
+Whenever Hypnotic Specter deals damage to an opponent, that player discards a card at random.
+122, Ice Storm, uncommon, 2-G, Sorcery, Destroy target land.
+123, Icy Manipulator, uncommon, 4, Artifact, , : Tap target artifact, creature, or land.
+124, Illusionary Mask, rare, 2, Artifact, : You may choose a creature card in your hand whose mana cost could be paid by some amount of, or all of, the mana you spent on . If you do, you may cast that card face down as a 2/2 creature spell without paying its mana cost. If the creature that spell becomes as it resolves has not been turned face up and would assign or deal damage, be dealt damage, or become tapped, instead it's turned face up and assigns or deals damage, is dealt damage, or becomes tapped. Activate only as a sorcery.
+125, Instill Energy, uncommon, G, Enchantment — Aura, Enchant creature
+Enchanted creature can attack as though it had haste.
+: Untap enchanted creature. Activate only during your turn and only once each turn.
+126, Invisibility, common, U-U, Enchantment — Aura, Enchant creature
+Enchanted creature can't be blocked except by Walls.
+127, Iron Star, uncommon, 1, Artifact, Whenever a player casts a red spell, you may pay . If you do, you gain 1 life.
+128, Ironclaw Orcs, common, 1-R, Creature — Orc, Ironclaw Orcs can't block creatures with power 2 or greater.
+129, Ironroot Treefolk, common, 4-G, Creature — Treefolk, 
+130, Island, unknown, , Basic Land — Island, 
+131, Island, unknown, , Basic Land — Island, 
+133, Island Sanctuary, rare, 1-W, Enchantment, If you would draw a card during your draw step, instead you may skip that draw. If you do, until your next turn, you can't be attacked except by creatures with flying and/or islandwalk.
+134, Ivory Cup, uncommon, 1, Artifact, Whenever a player casts a white spell, you may pay . If you do, you gain 1 life.
+135, Jade Monolith, rare, 4, Artifact, : The next time a source of your choice would deal damage to target creature this turn, that source deals that damage to you instead.
+136, Jade Statue, uncommon, 4, Artifact, : Jade Statue becomes a 3/6 Golem artifact creature until end of combat. Activate only during combat.
+137, Jayemdae Tome, rare, 4, Artifact, , : Draw a card.
+138, Juggernaut, uncommon, 4, Artifact Creature — Juggernaut, Juggernaut attacks each combat if able.
+Juggernaut can't be blocked by Walls.
+139, Jump, common, U, Instant, Target creature gains flying until end of turn.
+140, Karma, uncommon, 2-W-W, Enchantment, At the beginning of each player's upkeep, Karma deals damage to that player equal to the number of Swamps they control.
+141, Keldon Warlord, uncommon, 2-R-R, Creature — Human Barbarian, Keldon Warlord's power and toughness are each equal to the number of non-Wall creatures you control.
+142, Kormus Bell, rare, 4, Artifact, All Swamps are 1/1 black creatures that are still lands.
+143, Kudzu, rare, 1-G-G, Enchantment — Aura, Enchant land
+When enchanted land becomes tapped, destroy it. That land's controller may attach Kudzu to a land of their choice.
+144, Lance, uncommon, W, Enchantment — Aura, Enchant creature
+Enchanted creature has first strike.
+145, Ley Druid, uncommon, 2-G, Creature — Human Druid, : Untap target land.
+146, Library of Leng, uncommon, 1, Artifact, You have no maximum hand size.
+If an effect causes you to discard a card, discard it, but you may put it on top of your library instead of into your graveyard.
+147, Lich, rare, B-B-B-B, Enchantment, As Lich enters the battlefield, you lose life equal to your life total.
+You don't lose the game for having 0 or less life.
+If you would gain life, draw that many cards instead.
+Whenever you're dealt damage, sacrifice that many nontoken permanents. If you can't, you lose the game.
+When Lich is put into a graveyard from the battlefield, you lose the game.
+148, Lifeforce, uncommon, G-G, Enchantment, : Counter target black spell.
+149, Lifelace, rare, G, Instant, Target spell or permanent becomes green. (Mana symbols on that permanent remain unchanged.)
+150, Lifetap, uncommon, U-U, Enchantment, Whenever a Forest an opponent controls becomes tapped, you gain 1 life.
+151, Lightning Bolt, common, R, Instant, Lightning Bolt deals 3 damage to any target.
+152, Living Artifact, rare, G, Enchantment — Aura, Enchant artifact
+Whenever you're dealt damage, put that many vitality counters on Living Artifact.
+At the beginning of your upkeep, you may remove a vitality counter from Living Artifact. If you do, you gain 1 life.
+153, Living Lands, rare, 3-G, Enchantment, All Forests are 1/1 creatures that are still lands.
+154, Living Wall, uncommon, 4, Artifact Creature — Wall, Defender
+: Regenerate Living Wall.
+155, Llanowar Elves, common, G, Creature — Elf Druid, : Add .
+156, Lord of Atlantis, rare, U-U, Creature — Merfolk, Other Merfolk get +1/+1 and have islandwalk.
+157, Lord of the Pit, rare, 4-B-B-B, Creature — Demon, Flying, trample
+At the beginning of your upkeep, sacrifice a creature other than Lord of the Pit. If you can't, Lord of the Pit deals 7 damage to you.
+158, Lure, uncommon, 1-G-G, Enchantment — Aura, Enchant creature
+All creatures able to block enchanted creature do so.
+159, Magical Hack, rare, U, Instant, Change the text of target spell or permanent by replacing all instances of one basic land type with another. (For example, you may change "swampwalk" to "plainswalk." This effect lasts indefinitely.)
+160, Mahamoti Djinn, rare, 4-U-U, Creature — Djinn, Flying
+161, Mana Flare, rare, 2-R, Enchantment, Whenever a player taps a land for mana, that player adds one mana of any type that land produced.
+162, Mana Short, rare, 2-U, Instant, Tap all lands target player controls and that player loses all unspent mana.
+163, Mana Vault, rare, 1, Artifact, Mana Vault doesn't untap during your untap step.
+At the beginning of your upkeep, you may pay . If you do, untap Mana Vault.
+At the beginning of your draw step, if Mana Vault is tapped, it deals 1 damage to you.
+: Add .
+164, Manabarbs, rare, 3-R, Enchantment, Whenever a player taps a land for mana, Manabarbs deals 1 damage to that player.
+165, Meekstone, rare, 1, Artifact, Creatures with power 3 or greater don't untap during their controllers' untap steps.
+166, Merfolk of the Pearl Trident, common, U, Creature — Merfolk, 
+167, Mesa Pegasus, common, 1-W, Creature — Pegasus, Flying, banding
+168, Mind Twist, rare, X-B, Sorcery, Target player discards X cards at random.
+169, Mons's Goblin Raiders, common, R, Creature — Goblin, 
+170, Mountain, unknown, , Basic Land — Mountain, 
+171, Mountain, unknown, , Basic Land — Mountain, 
+173, Mox Emerald, rare, 0, Artifact, : Add .
+174, Mox Jet, rare, 0, Artifact, : Add .
+175, Mox Pearl, rare, 0, Artifact, : Add .
+176, Mox Ruby, rare, 0, Artifact, : Add .
+177, Mox Sapphire, rare, 0, Artifact, : Add .
+178, Natural Selection, rare, G, Instant, Look at the top three cards of target player's library, then put them back in any order. You may have that player shuffle.
+179, Nether Shadow, rare, B-B, Creature — Spirit, Haste
+At the beginning of your upkeep, if Nether Shadow is in your graveyard with three or more creature cards above it, you may put Nether Shadow onto the battlefield.
+180, Nettling Imp, uncommon, 2-B, Creature — Imp, : Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That creature attacks this turn if able. Destroy it at the beginning of the next end step if it didn't attack this turn. Activate only during an opponent's turn, before attackers are declared.
+181, Nevinyrral's Disk, rare, 4, Artifact, Nevinyrral's Disk enters the battlefield tapped.
+, : Destroy all artifacts, creatures, and enchantments.
+182, Nightmare, rare, 5-B, Creature — Nightmare Horse, Flying
+Nightmare's power and toughness are each equal to the number of Swamps you control.
+183, Northern Paladin, rare, 2-W-W, Creature — Human Knight, , : Destroy target black permanent.
+184, Obsianus Golem, uncommon, 6, Artifact Creature — Golem, 
+185, Orcish Artillery, uncommon, 1-R-R, Creature — Orc Warrior, : Orcish Artillery deals 2 damage to any target and 3 damage to you.
+186, Orcish Oriflamme, uncommon, 3-R, Enchantment, Attacking creatures you control get +1/+0.
+187, Paralyze, common, B, Enchantment — Aura, Enchant creature
+When Paralyze enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+At the beginning of the upkeep of enchanted creature's controller, that player may pay . If the player does, untap the creature.
+188, Pearled Unicorn, common, 2-W, Creature — Unicorn, 
+189, Personal Incarnation, rare, 3-W-W-W, Creature — Avatar Incarnation, : The next 1 damage that would be dealt to Personal Incarnation this turn is dealt to its owner instead. Only Personal Incarnation's owner may activate this ability.
+When Personal Incarnation dies, its owner loses half their life, rounded up.
+190, Pestilence, common, 2-B-B, Enchantment, At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence.
+: Pestilence deals 1 damage to each creature and each player.
+191, Phantasmal Forces, uncommon, 3-U, Creature — Illusion, Flying
+At the beginning of your upkeep, sacrifice Phantasmal Forces unless you pay .
+192, Phantasmal Terrain, common, U-U, Enchantment — Aura, Enchant land
+As Phantasmal Terrain enters the battlefield, choose a basic land type.
+Enchanted land is the chosen type.
+193, Phantom Monster, uncommon, 3-U, Creature — Illusion, Flying
+194, Pirate Ship, rare, 4-U, Creature — Human Pirate, Pirate Ship can't attack unless defending player controls an Island.
+: Pirate Ship deals 1 damage to any target.
+When you control no Islands, sacrifice Pirate Ship.
+195, Plague Rats, common, 2-B, Creature — Rat, Plague Rats's power and toughness are each equal to the number of creatures named Plague Rats on the battlefield.
+196, Plains, unknown, , Basic Land — Plains, 
+197, Plains, unknown, , Basic Land — Plains, 
+199, Plateau, rare, , Land — Mountain Plains, 
+200, Power Leak, common, 1-U, Enchantment — Aura, Enchant enchantment
+At the beginning of the upkeep of enchanted enchantment's controller, that player may pay any amount of mana. Power Leak deals 2 damage to that player. Prevent X of that damage, where X is the amount of mana that player paid this way.
+201, Power Sink, common, X-U, Instant, Counter target spell unless its controller pays . If that player doesn't, they tap all lands with mana abilities they control and lose all unspent mana.
+202, Power Surge, rare, R-R, Enchantment, At the beginning of each player's upkeep, Power Surge deals X damage to that player, where X is the number of untapped lands they controlled at the beginning of this turn.
+203, Prodigal Sorcerer, common, 2-U, Creature — Human Wizard, : Prodigal Sorcerer deals 1 damage to any target.
+204, Psionic Blast, uncommon, 2-U, Instant, Psionic Blast deals 4 damage to any target and 2 damage to you.
+205, Psychic Venom, common, 1-U, Enchantment — Aura, Enchant land
+Whenever enchanted land becomes tapped, Psychic Venom deals 2 damage to that land's controller.
+206, Purelace, rare, W, Instant, Target spell or permanent becomes white. (Mana symbols on that permanent remain unchanged.)
+207, Raging River, rare, R-R, Enchantment, Whenever one or more creatures you control attack, each defending player divides all creatures without flying they control into a "left" pile and a "right" pile. Then, for each attacking creature you control, choose "left" or "right." That creature can't be blocked this combat except by creatures with flying and creatures in a pile with the chosen label.
+208, Raise Dead, common, B, Sorcery, Return target creature card from your graveyard to your hand.
+209, Red Elemental Blast, common, R, Instant, Choose one —
+• Counter target blue spell.
+• Destroy target blue permanent.
+210, Red Ward, uncommon, W, Enchantment — Aura, Enchant creature
+Enchanted creature has protection from red. This effect doesn't remove Red Ward.
+211, Regeneration, common, 1-G, Enchantment — Aura, Enchant creature
+: Regenerate enchanted creature.
+212, Regrowth, uncommon, 1-G, Sorcery, Return target card from your graveyard to your hand.
+213, Resurrection, uncommon, 2-W-W, Sorcery, Return target creature card from your graveyard to the battlefield.
+214, Reverse Damage, rare, 1-W-W, Instant, The next time a source of your choice would deal damage to you this turn, prevent that damage. You gain life equal to the damage prevented this way.
+215, Righteousness, rare, W, Instant, Target blocking creature gets +7/+7 until end of turn.
+216, Roc of Kher Ridges, rare, 3-R, Creature — Bird, Flying
+217, Rock Hydra, rare, X-R-R, Creature — Hydra, Rock Hydra enters the battlefield with X +1/+1 counters on it.
+For each 1 damage that would be dealt to Rock Hydra, if it has a +1/+1 counter on it, remove a +1/+1 counter from it and prevent that 1 damage.
+: Prevent the next 1 damage that would be dealt to Rock Hydra this turn.
+: Put a +1/+1 counter on Rock Hydra. Activate only during your upkeep.
+218, Rod of Ruin, uncommon, 4, Artifact, , : Rod of Ruin deals 1 damage to any target.
+219, Royal Assassin, rare, 1-B-B, Creature — Human Assassin, : Destroy target tapped creature.
+220, Sacrifice, uncommon, B, Instant, As an additional cost to cast this spell, sacrifice a creature.
+Add an amount of equal to the sacrificed creature's mana value.
+221, Samite Healer, common, 1-W, Creature — Human Cleric, : Prevent the next 1 damage that would be dealt to any target this turn.
+222, Savannah, rare, , Land — Forest Plains, 
+223, Savannah Lions, rare, W, Creature — Cat, 
+224, Scathe Zombies, common, 2-B, Creature — Zombie, 
+225, Scavenging Ghoul, uncommon, 3-B, Creature — Zombie, At the beginning of each end step, put a corpse counter on Scavenging Ghoul for each creature that died this turn.
+Remove a corpse counter from Scavenging Ghoul: Regenerate Scavenging Ghoul.
+226, Scrubland, rare, , Land — Plains Swamp, 
+227, Scryb Sprites, common, G, Creature — Faerie, Flying
+228, Sea Serpent, common, 5-U, Creature — Serpent, Sea Serpent can't attack unless defending player controls an Island.
+When you control no Islands, sacrifice Sea Serpent.
+229, Sedge Troll, rare, 2-R, Creature — Troll, Sedge Troll gets +1/+1 as long as you control a Swamp.
+: Regenerate Sedge Troll.
+230, Sengir Vampire, uncommon, 3-B-B, Creature — Vampire, Flying
+Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.
+231, Serra Angel, uncommon, 3-W-W, Creature — Angel, Flying, vigilance
+232, Shanodin Dryads, common, G, Creature — Nymph Dryad, Forestwalk
+233, Shatter, common, 1-R, Instant, Destroy target artifact.
+234, Shivan Dragon, rare, 4-R-R, Creature — Dragon, Flying
+: Shivan Dragon gets +1/+0 until end of turn.
+235, Simulacrum, uncommon, 1-B, Instant, You gain life equal to the damage dealt to you this turn. Simulacrum deals damage to target creature you control equal to the damage dealt to you this turn.
+236, Sinkhole, common, B-B, Sorcery, Destroy target land.
+237, Siren's Call, uncommon, U, Instant, Cast this spell only during an opponent's turn, before attackers are declared.
+Creatures the active player controls attack this turn if able.
+At the beginning of the next end step, destroy all non-Wall creatures that player controls that didn't attack this turn. Ignore this effect for each creature the player didn't control continuously since the beginning of the turn.
+238, Sleight of Mind, rare, U, Instant, Change the text of target spell or permanent by replacing all instances of one color word with another. (For example, you may change "target black spell" to "target blue spell." This effect lasts indefinitely.)
+239, Smoke, rare, R-R, Enchantment, Players can't untap more than one creature during their untap steps.
+240, Sol Ring, uncommon, 1, Artifact, : Add .
+241, Soul Net, uncommon, 1, Artifact, Whenever a creature dies, you may pay . If you do, you gain 1 life.
+242, Spell Blast, common, X-U, Instant, Counter target spell with mana value X.
+243, Stasis, rare, 1-U, Enchantment, Players skip their untap steps.
+At the beginning of your upkeep, sacrifice Stasis unless you pay .
+244, Steal Artifact, uncommon, 2-U-U, Enchantment — Aura, Enchant artifact
+You control enchanted artifact.
+245, Stone Giant, uncommon, 2-R-R, Creature — Giant, : Target creature you control with toughness less than Stone Giant's power gains flying until end of turn. Destroy that creature at the beginning of the next end step.
+246, Stone Rain, common, 2-R, Sorcery, Destroy target land.
+247, Stream of Life, common, X-G, Sorcery, Target player gains X life.
+248, Sunglasses of Urza, rare, 3, Artifact, You may spend white mana as though it were red mana.
+249, Swamp, unknown, , Basic Land — Swamp, 
+250, Swamp, unknown, , Basic Land — Swamp, 
+252, Swords to Plowshares, uncommon, W, Instant, Exile target creature. Its controller gains life equal to its power.
+253, Taiga, rare, , Land — Mountain Forest, 
+254, Terror, common, 1-B, Instant, Destroy target nonartifact, nonblack creature. It can't be regenerated.
+255, Thicket Basilisk, uncommon, 3-G-G, Creature — Basilisk, Whenever Thicket Basilisk blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat.
+256, Thoughtlace, rare, U, Instant, Target spell or permanent becomes blue. (Mana symbols on that permanent remain unchanged.)
+257, Throne of Bone, uncommon, 1, Artifact, Whenever a player casts a black spell, you may pay . If you do, you gain 1 life.
+258, Timber Wolves, rare, G, Creature — Wolf, Banding
+259, Time Vault, rare, 2, Artifact, Time Vault enters the battlefield tapped.
+Time Vault doesn't untap during your untap step.
+If you would begin your turn while Time Vault is tapped, you may skip that turn instead. If you do, untap Time Vault.
+: Take an extra turn after this one.
+260, Time Walk, rare, 1-U, Sorcery, Take an extra turn after this one.
+261, Timetwister, rare, 2-U, Sorcery, Each player shuffles their hand and graveyard into their library, then draws seven cards. (Then put Timetwister into its owner's graveyard.)
+262, Tranquility, common, 2-G, Sorcery, Destroy all enchantments.
+263, Tropical Island, rare, , Land — Forest Island, 
+264, Tsunami, uncommon, 3-G, Sorcery, Destroy all Islands.
+265, Tundra, rare, , Land — Plains Island, 
+266, Tunnel, uncommon, R, Instant, Destroy target Wall. It can't be regenerated.
+267, Twiddle, common, U, Instant, You may tap or untap target artifact, creature, or land.
+268, Two-Headed Giant of Foriys, rare, 4-R, Creature — Giant, Trample
+Two-Headed Giant of Foriys can block an additional creature each combat.
+269, Underground Sea, rare, , Land — Island Swamp, 
+270, Unholy Strength, common, B, Enchantment — Aura, Enchant creature
+Enchanted creature gets +2/+1.
+271, Unsummon, common, U, Instant, Return target creature to its owner's hand.
+272, Uthden Troll, uncommon, 2-R, Creature — Troll, : Regenerate Uthden Troll.
+273, Verduran Enchantress, rare, 1-G-G, Creature — Human Druid, Whenever you cast an enchantment spell, you may draw a card.
+274, Vesuvan Doppelganger, rare, 3-U-U, Creature — Shapeshifter, You may have Vesuvan Doppelganger enter the battlefield as a copy of any creature on the battlefield, except it doesn't copy that creature's color and it has "At the beginning of your upkeep, you may have this creature become a copy of target creature, except it doesn't copy that creature's color and it has this ability."
+275, Veteran Bodyguard, rare, 3-W-W, Creature — Human, As long as Veteran Bodyguard is untapped, all damage that would be dealt to you by unblocked creatures is dealt to Veteran Bodyguard instead.
+276, Volcanic Eruption, rare, X-U-U-U, Sorcery, Destroy X target Mountains. Volcanic Eruption deals damage to each creature and each player equal to the number of Mountains put into a graveyard this way.
+278, Wall of Air, uncommon, 1-U-U, Creature — Wall, Defender, flying
+279, Wall of Bone, uncommon, 2-B, Creature — Skeleton Wall, Defender
+: Regenerate Wall of Bone.
+280, Wall of Brambles, uncommon, 2-G, Creature — Plant Wall, Defender
+: Regenerate Wall of Brambles.
+281, Wall of Fire, uncommon, 1-R-R, Creature — Wall, Defender
+: Wall of Fire gets +1/+0 until end of turn.
+282, Wall of Ice, uncommon, 2-G, Creature — Wall, Defender
+283, Wall of Stone, uncommon, 1-R-R, Creature — Wall, Defender
+284, Wall of Swords, uncommon, 3-W, Creature — Wall, Defender
+Flying
+285, Wall of Water, uncommon, 1-U-U, Creature — Wall, Defender
+: Wall of Water gets +1/+0 until end of turn.
+286, Wall of Wood, common, G, Creature — Wall, Defender
+287, Wanderlust, uncommon, 2-G, Enchantment — Aura, Enchant creature
+At the beginning of the upkeep of enchanted creature's controller, Wanderlust deals 1 damage to that player.
+288, War Mammoth, common, 3-G, Creature — Elephant, Trample
+289, Warp Artifact, rare, B-B, Enchantment — Aura, Enchant artifact
+At the beginning of the upkeep of enchanted artifact's controller, Warp Artifact deals 1 damage to that player.
+290, Water Elemental, uncommon, 3-U-U, Creature — Elemental, 
+291, Weakness, common, B, Enchantment — Aura, Enchant creature
+Enchanted creature gets -2/-1.
+292, Web, rare, G, Enchantment — Aura, Enchant creature
+Enchanted creature gets +0/+2 and has reach.
+293, Wheel of Fortune, rare, 2-R, Sorcery, Each player discards their hand, then draws seven cards.
+294, White Knight, uncommon, W-W, Creature — Human Knight, First strike
+Protection from black
+295, White Ward, uncommon, W, Enchantment — Aura, Enchant creature
+Enchanted creature has protection from white. This effect doesn't remove White Ward.
+296, Wild Growth, common, G, Enchantment — Aura, Enchant land
+Whenever enchanted land is tapped for mana, its controller adds an additional .
+297, Will-o'-the-Wisp, rare, B, Creature — Spirit, Flying
+: Regenerate Will-o'-the-Wisp.
+298, Winter Orb, rare, 2, Artifact, As long as Winter Orb is untapped, players can't untap more than one land during their untap steps.
+299, Wooden Sphere, uncommon, 1, Artifact, Whenever a player casts a green spell, you may pay . If you do, you gain 1 life.
+300, Word of Command, rare, B-B, Instant, Look at target opponent's hand and choose a card from it. You control that player until Word of Command finishes resolving. The player plays that card if able. While doing so, the player can activate mana abilities only if they're from lands that player controls and only if mana they produce is spent to activate other mana abilities of lands the player controls and/or to play that card. If the chosen card is cast as a spell, you control the player while that spell is resolving.
+301, Wrath of God, rare, 2-W-W, Sorcery, Destroy all creatures. They can't be regenerated.
+302, Zombie Master, rare, 1-B-B, Creature — Zombie, Other Zombie creatures have swampwalk.
+Other Zombies have ": Regenerate this permanent."
